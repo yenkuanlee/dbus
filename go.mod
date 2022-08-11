@@ -1,1 +1,1 @@
-module github.com/godbus/dbus
+module github.com/yenkuanlee/dbus
